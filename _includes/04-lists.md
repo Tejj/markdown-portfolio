@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Learnings
+
+- Debugging (GDB, strace, ltrace)
+- Git and Github
+- Linux Kernel Development
